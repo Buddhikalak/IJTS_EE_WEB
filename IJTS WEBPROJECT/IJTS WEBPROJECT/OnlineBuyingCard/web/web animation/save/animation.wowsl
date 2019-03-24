@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.4</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>animation</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>domino</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>91</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/cloud/</ImageTemplate>
+            <ImageTemplateName>Cloud</ImageTemplateName>
+            <ImageWidth>507</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Buddhika/Desktop/web animation/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Buddhika/Desktop/web animation</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>26</SlideshowDelay>
+            <SlideshowDuration>29</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>cloud</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Buddhika/Desktop/Main Web Project/mobitel.jpg</url>
+                <title>mobitel</title>
+                <userurl>www.mobitel.lk</userurl>
+            </Image>
+            <Image>
+                <url>C:/Users/Buddhika/Desktop/Main Web Project/dialog.jpg</url>
+                <title>dialog</title>
+                <userurl>www.dialog.lk</userurl>
+            </Image>
+            <Image>
+                <url>C:/Users/Buddhika/Desktop/Main Web Project/hutch.jpg</url>
+                <title>hutch</title>
+                <userurl>www.hutch.lk</userurl>
+            </Image>
+            <Image>
+                <url>C:/Users/Buddhika/Desktop/Main Web Project/airtel.jpg</url>
+                <title>airtel</title>
+                <userurl>www.airtel.lk</userurl>
+            </Image>
+            <Image>
+                <url>C:/Users/Buddhika/Desktop/Main Web Project/etisalat.jpg</url>
+                <title>etisalat</title>
+                <userurl>www.etisalat.lk</userurl>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

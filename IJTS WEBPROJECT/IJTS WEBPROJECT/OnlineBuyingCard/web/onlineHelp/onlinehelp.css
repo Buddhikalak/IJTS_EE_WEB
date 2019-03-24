@@ -1,0 +1,342 @@
+@import url(http://fonts.googleapis.com/css?family=Nunito);
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #00aff0;
+  overflow: hidden;
+}
+#skype{
+	position: absolute;
+	width: 800px;
+	height: 600px;
+	top: 50%;
+	left: 50%;
+	margin: -300px 0 0 -400px;
+	/*background-color: rgba(1,1,1,.1);*/
+}
+#skype h1{
+	position: relative;
+	text-align: center;
+	color: #fff;
+	line-height: 550px;
+	margin: 0;
+	padding: 0;
+	font-size: 290px;
+	font-family: 'Helvetica Rounded LT Std' 'Nunito', sans-serif; 
+   font-weight: normal;
+	letter-spacing: -30px;
+	text-indent: -20px;
+	color: #00aff0;
+}
+#skype h2{
+	position: absolute;
+	top: 190px;
+	left: 720px;
+	width: 80px;
+	height: 80px;
+	color: #fff;
+	line-height: 80px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	font-size: 30px;
+	font-family: Arial;
+	color: #00aff0;
+}
+/*Circle*/
+.circle{
+	width: 0;
+	height: 0;
+	position: absolute;
+	background-color: #fff;
+	border-radius: 50%;
+	-webkit-transform: scale(0);
+	-webkit-animation-name: circle;
+	-webkit-animation-duration: 3000ms;
+	-webkit-animation-fill-mode: forwards;
+	-webkit-animation-timing-function: ease-out;
+	-webkit-animation-iteration-count: infinite;
+
+	-moz-transform: scale(0);
+	-moz-animation-name: circle;
+	-moz-animation-duration: 3000ms;
+	-moz-animation-fill-mode: forwards;
+	-moz-animation-timing-function: ease-out;
+	-moz-animation-iteration-count: infinite;
+
+	-ms-transform: scale(0);
+	-ms-animation-name: circle;
+	-ms-animation-duration: 3000ms;
+	-ms-animation-fill-mode: forwards;
+	-ms-animation-timing-function: ease-out;
+	-ms-animation-iteration-count: infinite;
+
+	transform: scale(0);
+	animation-name: circle;
+	animation-duration: 3000ms;
+	animation-fill-mode: forwards;
+	animation-timing-function: ease-out;
+	animation-iteration-count: infinite;
+}
+.circle-1{
+	padding: 100px;
+	left: 350px;
+	top: 150px;
+	-webkit-animation-delay: 50ms;
+
+	-moz-animation-delay: 50ms;
+
+	-ms-animation-delay: 50ms;
+
+	animation-delay: 50ms;
+}
+.circle-2{
+	padding: 115px;
+	left: 545px;
+	top: 185px;
+	-webkit-animation-delay: 100ms;
+
+	-moz-animation-delay: 100ms;
+
+	-ms-animation-delay: 100ms;
+
+	animation-delay: 100ms;
+}
+.circle-3{
+	padding: 95px;
+	left: 190px;
+	top: 240px;
+	-webkit-animation-delay: 150ms;
+
+	-moz-animation-delay: 150ms;
+
+	-ms-animation-delay: 150ms;
+
+	animation-delay: 150ms;
+}
+.circle-4{
+	padding: 80px;
+	left: 340px;
+	top: 260px;
+	-webkit-animation-delay: 200ms;
+
+	-moz-animation-delay: 200ms;
+
+	-ms-animation-delay: 200ms;
+
+	animation-delay: 200ms;
+}
+.circle-5{
+	padding: 70px;
+	left: 290px;
+	top: 340px;
+	-webkit-animation-delay: 200ms;
+
+	-moz-animation-delay: 200ms;
+
+	-ms-animation-delay: 200ms;
+
+	animation-delay: 200ms;
+}
+.circle-6{
+	padding: 50px;
+	left: 510px;
+	top: 190px;
+	-webkit-animation-delay: 200ms;
+
+	-moz-animation-delay: 200ms;
+
+	-ms-animation-delay: 200ms;
+
+	animation-delay: 200ms;
+}
+.circle-7{
+	padding: 90px;
+	left: 450px;
+	top: 240px;
+	-webkit-animation-delay: 200ms;
+
+	-moz-animation-delay: 200ms;
+
+	-ms-animation-delay: 200ms;
+
+	animation-delay: 200ms;
+}
+.circle-8{
+	padding: 110px;
+	left: 30px;
+	top: 190px;
+	-webkit-animation-delay: 250ms;
+
+	-moz-animation-delay: 250ms;
+
+	-ms-animation-delay: 250ms;
+
+	animation-delay: 250ms;
+}
+.circle-9{
+	padding: 55px;
+	left: 410px;
+	top: 360px;
+	-webkit-animation-delay: 250ms;
+
+	-moz-animation-delay: 250ms;
+
+	-ms-animation-delay: 250ms;
+
+	animation-delay: 250ms;
+}
+.circle-10{
+	padding: 85px;
+	left: 220px;
+	top: 170px;
+	-webkit-animation-delay: 300ms;
+
+	-moz-animation-delay: 300ms;
+
+	-ms-animation-delay: 300ms;
+
+	animation-delay: 300ms;
+}
+.circle-11{
+	padding: 85px;
+	left: 220px;
+	top: 170px;
+	-webkit-animation-delay: 300ms;
+
+	-moz-animation-delay: 300ms;
+
+	-ms-animation-delay: 300ms;
+
+	animation-delay: 300ms;
+}
+.circle-12{
+	padding: 60px;
+	left: 160px;
+	top: 130px;
+	-webkit-animation-delay: 350ms;
+
+	-moz-animation-delay: 350ms;
+
+	-ms-animation-delay: 350ms;
+
+	animation-delay: 350ms;
+}
+.circle-13{
+	padding: 60px;
+	left: 10px;
+	top: 180px;
+	-webkit-animation-delay: 400ms;
+
+	-moz-animation-delay: 400ms;
+
+	-ms-animation-delay: 400ms;
+
+	animation-delay: 400ms;
+}
+.circle-14{
+	padding: 40px;
+	left: 720px;
+	top: 190px;
+	-webkit-animation-delay: 400ms;
+
+	-moz-animation-delay: 400ms;
+
+	-ms-animation-delay: 400ms;
+
+	animation-delay: 400ms;
+}
+
+@-webkit-keyframes circle{
+	from {
+		-webkit-transform: scale(0);
+	}
+	8%{
+		-webkit-transform: scale(1.3);
+	}
+	12%{
+		-webkit-transform: scale(1);
+	}
+	60%{
+		-webkit-transform: scale(1);
+	}
+	62%{
+		-webkit-transform: scale(1.2);
+	}	
+	64%{
+		-webkit-transform: scale(0);
+	}
+	to {
+		-webkit-transform: scale(0);	
+	}
+}
+@-moz-keyframes circle{
+	from {
+		-moz-transform: scale(0);
+	}
+	8%{
+		-moz-transform: scale(1.3);
+	}
+	12%{
+		-moz-transform: scale(1);
+	}
+	60%{
+		-moz-transform: scale(1);
+	}
+	62%{
+		-moz-transform: scale(1.2);
+	}	
+	64%{
+		-moz-transform: scale(0);
+	}
+	to {
+		-moz-transform: scale(0);	
+	}
+}
+@-ms-keyframes circle{
+	from {
+		-ms-transform: scale(0);
+	}
+	8%{
+		-ms-transform: scale(1.3);
+	}
+	12%{
+		-ms-transform: scale(1);
+	}
+	60%{
+		-ms-transform: scale(1);
+	}
+	62%{
+		-ms-transform: scale(1.2);
+	}	
+	64%{
+		-ms-transform: scale(0);
+	}
+	to {
+		-ms-transform: scale(0);	
+	}
+}
+
+@keyframes circle{
+	from {
+		transform: scale(0);
+	}
+	8%{
+		transform: scale(1.3);
+	}
+	12%{
+		transform: scale(1);
+	}
+	60%{
+		transform: scale(1);
+	}
+	62%{
+		transform: scale(1.2);
+	}	
+	64%{
+		transform: scale(0);
+	}
+	to {
+		transform: scale(0);	
+	}
+}
